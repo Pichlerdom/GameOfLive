@@ -1,0 +1,6 @@
+*~
+/bin/gol
+/obj/*
+*#*
+valgrind*
+/bin/breaks
